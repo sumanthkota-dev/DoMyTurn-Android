@@ -65,12 +65,19 @@ DoMyTurn is a **Flutter-based cross-platform mobile app** with a **Spring Boot b
 
 ## Screenshots
 
-<img width="1344" height="2992" alt="DashBoard" src="https://github.com/user-attachments/assets/c09c7bfd-e320-420d-b5fa-408b9129af1c" />
-<img width="1344" height="2992" alt="ChoresScreen" src="https://github.com/user-attachments/assets/5ecf4bca-bd33-425e-ae5f-a7bf8b5f1d9f" />
-<img width="1344" height="2992" alt="ShoppingScreen" src="https://github.com/user-attachments/assets/595a3120-7200-4281-89ea-b9e22a74f287" />
-<img width="1344" height="2992" alt="Homemgmt" src="https://github.com/user-attachments/assets/b4d754e1-0632-4f2f-9ac8-27600f360715" />
-<img width="1344" height="2992" alt="Profile Screen" src="https://github.com/user-attachments/assets/00826961-6298-4dc1-876c-7ca860e037b1" />
-<img width="1344" height="2992" alt="PaymentChore" src="https://github.com/user-attachments/assets/69023574-263a-4f34-baa5-9c07b19b4e8d" />
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c09c7bfd-e320-420d-b5fa-408b9129af1c" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/5ecf4bca-bd33-425e-ae5f-a7bf8b5f1d9f" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/595a3120-7200-4281-89ea-b9e22a74f287" width="200" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b4d754e1-0632-4f2f-9ac8-27600f360715" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/00826961-6298-4dc1-876c-7ca860e037b1" width="200" /></td>
+    <td><img src="https://github.com/user-attachments/assets/69023574-263a-4f34-baa5-9c07b19b4e8d" width="200" /></td>
+  </tr>
+</table>
+
 
 ---
 
