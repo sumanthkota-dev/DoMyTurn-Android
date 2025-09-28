@@ -1,6 +1,0 @@
-[
-    {
-        "merged": "io.flutter.plugins.firebase.messaging.firebase_messaging-release-34:/raw/firebase_common_keep.xml",
-        "source": "io.flutter.plugins.firebase.messaging.firebase_messaging-jetified-firebase-common-22.0.0-19:/raw/firebase_common_keep.xml"
-    }
-]
