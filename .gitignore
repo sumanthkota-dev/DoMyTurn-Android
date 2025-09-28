@@ -1,0 +1,33 @@
+# Flutter/Dart
+.dart_tool/
+.build/
+.packages
+pubspec.lock
+
+# Android build
+android/.gradle/
+android/app/build/
+android/local.properties
+
+# iOS build
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Runner/GeneratedPluginRegistrant.*
+
+# IDEs
+.idea/
+.vscode/
+
+# Misc
+*.iml
+*.log
+*.lock
+*.swp
+*.DS_Store
+
+# Ignore all APKs and AABs
+*.apk
+*.aab
+
